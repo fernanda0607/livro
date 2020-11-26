@@ -1,0 +1,11 @@
+{
+  "name": "livro",
+  "version": "1.0.0",
+  "description": "Cadastro de Livros",
+  "main": "livro.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Fernanda Leme",
+  "license": "MIT"
+}
